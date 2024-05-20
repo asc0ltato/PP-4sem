@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF14543B-3AB9-4A37-85CB-42117CB9E74A}|PP03.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\pp03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF14543B-3AB9-4A37-85CB-42117CB9E74A}|PP03.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l3c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l3b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l3a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l2b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l2a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l1c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l1b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\l1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\ifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF14543B-3AB9-4A37-85CB-42117CB9E74A}|PP03.csproj|C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF14543B-3AB9-4A37-85CB-42117CB9E74A}|PP03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\factory3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\factory2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\factory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F4E7C-653F-4889-BF3F-5EA51165BF56}|..\\Lab03LibN\\Lab03LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u043B\u0430\u0431\u04303\\lab03libn\\lec03libn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF14543B-3AB9-4A37-85CB-42117CB9E74A}|PP03.csproj|C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\pp03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF14543B-3AB9-4A37-85CB-42117CB9E74A}|PP03.csproj|solutionrelative:pp03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "L2C.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L2C.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L2C.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L2C.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L2C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:19:08.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L3A.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L3A.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L3A.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L3A.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L3A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:19:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "L3B.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L3B.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L3B.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L3B.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L3B.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:19:18.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "L3C.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L3C.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L3C.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L3C.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L3C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:19:19.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:36:30.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "L2B.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L2B.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L2B.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L2B.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L2B.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:17:24.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "L2A.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L2A.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L2A.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L2A.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L2A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:17:13.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "L1C.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L1C.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L1C.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L1C.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L1C.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:17:07.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "L1B.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L1B.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L1B.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L1B.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L1B.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:10:45.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "L1A.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L1A.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\L1A.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\L1A.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\L1A.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:16:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\IFactory.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\IFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\IFactory.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\IFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:14:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T22:42:10.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBonus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\IBonus.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\IBonus.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\IBonus.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\IBonus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:13:23.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Factory3.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Factory3.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\Factory3.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Factory3.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\Factory3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:04:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Factory2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Factory2.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\Factory2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Factory2.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\Factory2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:04:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Factory1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Factory1.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\Factory1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Factory1.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\Factory1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:16:12.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lec03LibN.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Lec03LibN.cs",
+              "RelativeDocumentMoniker": "..\\Lab03LibN\\Lec03LibN.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\Lab03LibN\\Lec03LibN.cs",
+              "RelativeToolTip": "..\\Lab03LibN\\Lec03LibN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:13:44.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PP03",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\PP03.csproj",
+              "RelativeDocumentMoniker": "PP03.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u041B\u0430\u0431\u04303\\PP03\\PP03.csproj",
+              "RelativeToolTip": "PP03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T15:46:36.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\bin\Debug\net6.0\Lab03LibN.deps.json
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\bin\Debug\net6.0\Lab03LibN.dll
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\bin\Debug\net6.0\Lab03LibN.pdb
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\Lab03LibN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\Lab03LibN.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\Lab03LibN.AssemblyInfo.cs
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\Lab03LibN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\Lab03LibN.dll
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\refint\Lab03LibN.dll
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\Lab03LibN.pdb
+C:\Users\user\Desktop\ПП\Лаба3\Lab03LibN\obj\Debug\net6.0\ref\Lab03LibN.dll

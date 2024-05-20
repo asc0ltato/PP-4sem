@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\PP04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA777CAF-5B64-49CD-AA34-AA8FD6FD8F31}|..\\Lec04LibN\\Lec04LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u043B\u0430\u0431\u04304\\lec04libn\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5B43BB-B1B4-40E7-B875-80C112487BD8}|PP04.csproj|C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\PP04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5B43BB-B1B4-40E7-B875-80C112487BD8}|PP04.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA777CAF-5B64-49CD-AA34-AA8FD6FD8F31}|..\\Lec04LibN\\Lec04LibN.csproj|c:\\users\\user\\desktop\\\u043F\u043F\\\u0433\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u043B\u0430\u0431\u04304\\lec04libn\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\Lec04LibN\\Logger.cs",
+              "RelativeDocumentMoniker": "..\\Lec04LibN\\Logger.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\Lec04LibN\\Logger.cs",
+              "RelativeToolTip": "..\\Lec04LibN\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:06:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\Lec04LibN\\ILogger.cs",
+              "RelativeDocumentMoniker": "..\\Lec04LibN\\ILogger.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\Lec04LibN\\ILogger.cs",
+              "RelativeToolTip": "..\\Lec04LibN\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:28:33.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\PP04\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041F\u041F\\\u0413\u043E\u0442\u043E\u0432\u044B\u0435 \u043B\u0430\u0431\u044B\\\u041B\u0430\u0431\u04304\\PP04\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T18:27:49.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
